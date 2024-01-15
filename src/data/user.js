@@ -8,9 +8,9 @@ const INFO = {
 
 	socials: {
 		github: "https://github.com/mohamedbentaleb02",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		facebook: "https://facebook.com/",
+		linkedin: "https://www.linkedin.com/in/mohamed-ben-taleb-aaa724202/",
+		instagram: "https://www.instagram.com/mo7amedbentaleb/",
+		facebook: "https://www.facebook.com/mohamedbentaleb.682",
 	},
 
 	homepage: {
@@ -36,7 +36,7 @@ const INFO = {
 			title: "MMC",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "../mmc-logo.jpg",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -45,7 +45,7 @@ const INFO = {
 			title: "UIR-SHOP",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			logo: "../uir.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
